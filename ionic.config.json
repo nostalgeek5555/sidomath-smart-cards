@@ -1,0 +1,8 @@
+{
+  "name": "SidomathSmartCards",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f73a6d9a"
+}
